@@ -8,7 +8,7 @@ const Footer = () => {
           <Link to="/" >About</Link>
           <Link to="/">Contact</Link>
         </div>
-        <p className='text-sm'>Created By Dynamic Coding with Rohit</p>
+        <p className='text-sm'>(Note: Due to accessibility limitations with Jio ISP, data will be shown using alternative ISPs to ensure continuous and reliable service.)</p>
     </footer>
   )
 }
